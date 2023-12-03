@@ -10,7 +10,7 @@ conn = psycopg2.connect(
 cur = conn.cursor()
 
 cur.execute("""CREATE TABLE restaurants_LA(
-    restaurants_name VARCHAR PRIMARY KEY,
+    restaurants_name VARCHAR,
     phone_number VARCHAR(15),
     street_address VARCHAR(30),
     locality VARCHAR(30),
