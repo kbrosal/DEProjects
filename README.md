@@ -35,4 +35,4 @@ Our solution equips the client with data-driven insights, offering a comprehensi
 - Execute data_analysis.py for data visualization and recommendations.
 
 ## Acknowledgments
-Thanks to our restaurant business clients for their invaluable input.
+Thanks to our restaurant business clients for their invaluable input. 🥰
