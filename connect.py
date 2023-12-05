@@ -3,8 +3,8 @@ import psycopg2
 conn = psycopg2.connect(
     host="deproject1.cpaxrao0tqen.ap-southeast-1.rds.amazonaws.com",
     database="postgres",
-    user="dbproject1",
-    password="kerlydata",
+    user="*********",
+    password="*********",
     port = "5432")
 
 cur = conn.cursor()
