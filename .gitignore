@@ -2,3 +2,6 @@
 /misc.py
 /requirements.txt
 /scrapper
+
+# DB creds and file path
+.env
