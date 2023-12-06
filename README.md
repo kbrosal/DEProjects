@@ -2,6 +2,8 @@
 ## Overview
 This Yellow Pages Scraper is an efficient ETL (Extract, Transform, Load) tool. It extracts restaurant data from Yellow Pages in Los Angeles, processes and cleans the data for analysis, and then stores it in an organized database format.
 
+![ProjectDiagram_YellowPages drawio](https://github.com/kbrosal/Yellowpages-ETL/assets/140308832/381f5f95-6d2b-4ecd-9e82-5c469527dab4)
+
 ## Project Purpose
 The aim is to assist a digital service company that supports restaurants. We gather detailed restaurant information, clean and analyze it to identify potential business opportunities for our clients in the restaurant industry.
 
