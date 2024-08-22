@@ -14,7 +14,6 @@ Our client, an aspiring entrepreneur in the restaurant sector, seeks insights in
 Data Collection: Uses web scraping tools like Beautiful Soup and Selenium.
 Data Storage: Utilizes a SQL database.
 Data Analysis: Employs Python libraries (Pandas, NumPy, Matplotlib) for data processing and analysis.
-Pattern Identification: Applies machine learning with Scikit-Learn.
 
 ## Deliverables
 A detailed report with analytical insights on top-performing restaurant owners.
