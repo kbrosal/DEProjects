@@ -10,7 +10,7 @@ The aim is to assist a digital service company that supports restaurants. We gat
 ## Client Perspective
 Our client, an aspiring entrepreneur in the restaurant sector, seeks insights into the market. Our high-tech solution offers them a comprehensive understanding of successful restaurant owners, helping them gain a competitive edge.
 
-##Technical Aspects
+## Technical Aspects
 Data Collection: Uses web scraping tools like Beautiful Soup and Selenium.
 Data Storage: Utilizes a SQL database.
 Data Analysis: Employs Python libraries (Pandas, NumPy, Matplotlib) for data processing and analysis.
